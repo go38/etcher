@@ -227,7 +227,7 @@ rules:
   newline-per-chained-call:
     - off
   no-bitwise:
-    - error
+    - off
   no-continue:
     - error
   no-inline-comments:
